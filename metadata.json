@@ -1,0 +1,6 @@
+{
+  "name": "SynapseChain - AI Blockchain MVP",
+  "description": "Next-generation layer-1 blockchain MVP featuring autonomous AI validator consensus, prompt-to-contract synthesis, live cryptographic Merkle ledger, and AI mempool security guards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
